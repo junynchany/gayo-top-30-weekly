@@ -1,0 +1,8 @@
+interface:
+  display_name: "가요 TOP 10"
+  short_description: "주간 인기가요 30곡을 다섯 관점으로 비평·선정"
+  default_prompt: "$gayo-top-10을 사용해 이번 주 한국 인기가요 순위를 검토하고 근거가 포함된 최종 30곡을 선정해 주세요."
+
+policy:
+  allow_implicit_invocation: true
+
